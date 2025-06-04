@@ -22,19 +22,39 @@ export const Home = () => {
             <li className="flex items-start">
               <span className="text-green-400 mr-2">•</span>
               <p className="text-white">
-                Next.js specialist with expertise in SSR, SSG, and efficient data fetching
+                Next.js specialist with expertise in SSR, SSG, ISR and efficient
+                data fetching
               </p>
             </li>
             <li className="flex items-start">
               <span className="text-green-400 mr-2">•</span>
               <p className="text-white">
-                Build high-performance web apps with minimal dependencies
+                Build high-performance client-side applications with React
               </p>
             </li>
             <li className="flex items-start">
               <span className="text-green-400 mr-2">•</span>
               <p className="text-white">
-                Strong JavaScript, HTML, CSS fundamentals with modern tooling (Git, Webpack)
+                State management using Redux, Context API, and React Query
+              </p>
+            </li>
+            <li className="flex items-start">
+              <span className="text-green-400 mr-2">•</span>
+              <p className="text-white">
+                Strong JavaScript, HTML, CSS fundamentals with modern tooling
+                (Git, Webpack)
+              </p>
+            </li>
+            <li className="flex items-start">
+              <span className="text-green-400 mr-2">•</span>
+              <p className="text-white">
+                CSS frameworks: Bootstrap, TailwindCSS, and CSS-in-JS solutions
+              </p>
+            </li>
+            <li className="flex items-start">
+              <span className="text-green-400 mr-2">•</span>
+              <p className="text-white">
+                Firebase integration (Authentication, Firestore, Storage)
               </p>
             </li>
             <li className="flex items-start">
@@ -44,7 +64,6 @@ export const Home = () => {
               </p>
             </li>
           </ul>
-
           <div className="flex justify-center space-x-4 mb-8">
             <a
               href="#projects"
